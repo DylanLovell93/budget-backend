@@ -5,7 +5,7 @@ const app = require('./app');
 require('dotenv').config();
 
 //Get port from .env
-const PORT = process.env.API_PORT;
+const PORT = process.env.PORT;
 
 //run the backend;
 app.listen(PORT, () => {
