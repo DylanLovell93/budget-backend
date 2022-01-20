@@ -5,6 +5,7 @@ module.exports = [
     amount: 1000,
     from: 'N/A',
     category: 'N/A',
+    id: '7c4b43ef-d07b-47a2-8125-63a8c4dcba36',
   },
   {
     date: 'April 1',
@@ -12,6 +13,7 @@ module.exports = [
     amount: -300,
     from: 'N/A',
     category: 'N/A',
+    id: '6c8d7e18-6fd8-4520-bf1c-2f968606e6c1',
   },
   {
     date: 'April 1',
@@ -19,6 +21,7 @@ module.exports = [
     amount: -200,
     from: 'N/A',
     category: 'N/A',
+    id: '8f1ea7c4-85d3-43fe-81be-70b64d9b2424',
   },
   {
     date: 'April 1',
@@ -26,6 +29,7 @@ module.exports = [
     amount: -100,
     from: 'N/A',
     category: 'N/A',
+    id: '33eca582-356f-4b33-aa55-9acaa9195480',
   },
   {
     date: 'April 1',
@@ -40,6 +44,7 @@ module.exports = [
     amount: 20,
     from: 'N/A',
     category: 'N/A',
+    id: '4ee74139-98e7-4ba1-a5d9-8bd28ecbcff4',
   },
   {
     date: 'April 5',
@@ -47,6 +52,7 @@ module.exports = [
     amount: -4,
     from: 'N/A',
     category: 'N/A',
+    id: '6022cffe-1c22-4981-88cc-ffbe9862a34e',
   },
   {
     date: 'April 5',
@@ -54,6 +60,7 @@ module.exports = [
     amount: -100,
     from: 'N/A',
     category: 'N/A',
+    id: '4e3ae57b-5463-476d-b40f-48f26c1e95de',
   },
   {
     date: 'April 3',
@@ -61,6 +68,7 @@ module.exports = [
     amount: -76,
     from: 'N/A',
     category: 'N/A',
+    id: '4ff9ce48-7469-4eab-a931-8a680d08ab2e',
   },
   {
     date: 'April 3',
@@ -68,5 +76,6 @@ module.exports = [
     amount: -7,
     from: 'N/A',
     category: 'N/A',
+    id: '9e924348-6a84-4989-a411-40f0d6f8f981',
   },
 ];
