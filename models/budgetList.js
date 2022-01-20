@@ -37,6 +37,7 @@ module.exports = [
     amount: -100,
     from: 'N/A',
     category: 'N/A',
+    id: '51a727a5-346f-4a13-ba2e-9c7422f8f462',
   },
   {
     date: 'April 5',

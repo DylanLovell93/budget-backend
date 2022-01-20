@@ -4,7 +4,7 @@ const express = require('express');
 //import cors
 const cors = require('cors');
 
-//import transactions
+//import transactions controller
 const transactions = require('./controllers/transactions');
 
 //create app
